@@ -34,7 +34,7 @@ console-subscriber = { version = "0.1", optional = true }
 criterion = { version = "0.3", optional = true, features = [ "async_tokio" ] }
 eyre = "0.6"
 futures = "0.3"
-hyper = { version = "^0.14.17", features = [ "server", "tcp", "http1", "http2" ] }
+hyper = { version = "^0.14.18", features = [ "server", "tcp", "http1", "http2" ] }
 itertools = "0.10"
 mimalloc = { version = "0.1", default-features = false, optional = true }
 once_cell = "1.8"

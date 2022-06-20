@@ -1627,9 +1627,9 @@ dependencies = [
 
 [[package]]
 name = "time"
-version = "0.3.7"
+version = "0.3.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "004cbc98f30fa233c61a38bc77e96a9106e65c88f2d3bef182ae952027e5753d"
+checksum = "82501a4c1c0330d640a6e176a3d6a204f5ec5237aca029029d21864a902e27b0"
 dependencies = [
  "itoa 1.0.1",
  "libc",
